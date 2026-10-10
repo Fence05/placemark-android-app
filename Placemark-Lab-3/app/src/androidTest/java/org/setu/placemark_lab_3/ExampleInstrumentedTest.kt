@@ -1,4 +1,4 @@
-package org.setu.placemark_lab_2
+package org.setu.placemark_lab_3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

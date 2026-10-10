@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "org.setu.placemark_lab_2"
+    namespace = "org.setu.placemark_lab_3"
     compileSdk {
         version = release(37)
     }
