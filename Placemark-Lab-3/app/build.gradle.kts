@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "org.setu.placemark_lab_2"
+        applicationId = "org.setu.placemark_lab_3"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
