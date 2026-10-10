@@ -1,4 +1,4 @@
-package org.setu.placemark_lab_3
+package org.setu.placemark_lab_2
 
 import org.junit.Test
 

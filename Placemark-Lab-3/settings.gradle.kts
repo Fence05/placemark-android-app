@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Placemark-lab-3"
+rootProject.name = "Placemark-Lab-2"
 include(":app")
  
