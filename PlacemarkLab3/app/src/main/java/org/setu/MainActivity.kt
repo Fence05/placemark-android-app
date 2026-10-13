@@ -1,4 +1,4 @@
-package org.setu.placemark_lab_3
+package org.setu.placemark_lab_2
 
 import android.content.Intent
 import android.os.Bundle
