@@ -1,4 +1,4 @@
-package org.setu.placemark_lab_2
+package org.setu.placemark_lab_3
 
 import android.os.Bundle
 import android.widget.Button
